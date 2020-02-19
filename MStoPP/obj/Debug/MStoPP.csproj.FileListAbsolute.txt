@@ -1,0 +1,9 @@
+C:\Users\ranki\Documents\Projects\MS to ProP\MStoPP\MStoPP\bin\Debug\MStoPP.exe.config
+C:\Users\ranki\Documents\Projects\MS to ProP\MStoPP\MStoPP\bin\Debug\MStoPP.exe
+C:\Users\ranki\Documents\Projects\MS to ProP\MStoPP\MStoPP\bin\Debug\MStoPP.pdb
+C:\Users\ranki\Documents\Projects\MS to ProP\MStoPP\MStoPP\obj\Debug\MStoPP.csprojAssemblyReference.cache
+C:\Users\ranki\Documents\Projects\MS to ProP\MStoPP\MStoPP\obj\Debug\MStoPP.Form.resources
+C:\Users\ranki\Documents\Projects\MS to ProP\MStoPP\MStoPP\obj\Debug\MStoPP.Properties.Resources.resources
+C:\Users\ranki\Documents\Projects\MS to ProP\MStoPP\MStoPP\obj\Debug\MStoPP.csproj.GenerateResource.cache
+C:\Users\ranki\Documents\Projects\MS to ProP\MStoPP\MStoPP\obj\Debug\MStoPP.exe
+C:\Users\ranki\Documents\Projects\MS to ProP\MStoPP\MStoPP\obj\Debug\MStoPP.pdb
